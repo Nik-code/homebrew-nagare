@@ -1,6 +1,6 @@
 cask "nagare" do
-  version "1.0.0"
-  sha256 "7aaa3fe2ccbd59ad9aac23a3cf21279a3a6e1f1df8671f760e738fd7fc11f5e7"
+  version "1.1.0"
+  sha256 "89aa3f34b6a1e9fe2d11a78be8b7ef35379f0b5c6a217dd4040b32e43aa78eae"
 
   url "https://github.com/Nik-code/nagare/releases/download/v#{version}/Nagare-#{version}.dmg"
   name "Nagare"
